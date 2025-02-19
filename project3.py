@@ -1,3 +1,1 @@
-name=input("enter your name: ")
-loosu
-hjhdjkkfdj
+name=intput("enter your name")
